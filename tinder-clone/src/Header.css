@@ -10,11 +10,11 @@
 
 .header__logo{
     object-fit: contain;
-    height: 42px;
+    height: 45px;
 
 }
 
 .header__icon{
     padding: 20px;
-    
+    height: 40px;
 }
